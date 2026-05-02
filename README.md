@@ -2,7 +2,7 @@
 TP ENTREGABLE WEB 2 TUDAI
 
 # Integrante 
-Alejandro Ferreyra ferreyra.alejann@gmail.com
+Alejandro Ferreyra alferreyra@alumnos.exa.unicen.edu.ar
 # Temática 
 Tienda de Indumentaria y Calzado de  Seguridad.-
 # Descripción 
